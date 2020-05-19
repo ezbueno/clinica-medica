@@ -15,6 +15,7 @@
 		<ul>
 			<li><a href="index.jsp">Home</a></li>
 			<li><a href="contato.jsp">Contato</a></li>
+			<li><a href="cadastro.jsp">Cadastro</a></li>
 		</ul>
 	</div>
 	
@@ -30,7 +31,7 @@
 				Médico Responsável: Dr. Fulano de Tal
 				<br/>
 				Agendamentos de Terças e Quintas, das 08 às 17h.
-				<br/>
+				<br/><br/>
 				</h4>
 		</div>
 		
@@ -46,7 +47,7 @@
 				Médico Responsável: Dr. Beltrano Alves
 				<br/>
 				Agendamentos de Segundas e Quartas, das 08 às 17h.
-				<br/>
+				<br/><br/>
 			</h4>
 		</div>
 		
@@ -66,7 +67,6 @@
 				Médico Responsável: Dr. Ciclano Freitas
 				<br/>
 				Agendamentos de Quartas e Sextas, das 08 às 17h.
-				<br/>
 			</h4>
 		</div>
 		

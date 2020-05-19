@@ -15,6 +15,7 @@
 		<ul>
 			<li><a href="index.jsp">Home</a></li>
 			<li><a href="especialidade.jsp">Especialidades</a></li>
+			<li><a href="cadastro.jsp">Cadastro</a></li>
 		</ul>
 	</div>
 	<div>
