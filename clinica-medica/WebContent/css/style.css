@@ -1,0 +1,117 @@
+@charset "UTF-8";
+
+
+
+body {
+	background-color: #E0FFFF;
+	text-align: justify;
+}
+
+#topo{
+    width: 100%; 
+    height: 60px;
+    background-color: #5F9EA0;
+    float: left;
+    text-align: center;
+    color: #E0FFFF;
+}
+
+#menu_lateral {
+    width: 18%;
+    height: 600px;
+    background-color: #87CEEB;
+    float: left;
+}
+
+#menu_lateral a {
+	text-decoration: none;
+	color: #5F9EA0;
+	font-size: 22px;
+}
+
+#menu_lateral a:hover {
+	text-decoration: underline;
+}
+
+#menu_lateral li {
+	list-style: none;
+	text-decoration: none;
+}
+
+#menu_lateral_clinica {
+    width: 20%;
+    height: 1320px;
+    background-color: #87CEEB;
+    float: left;
+}
+
+#menu_lateral_clinica a {
+	text-decoration: none;
+	color: #5F9EA0;
+	font-size: 22px;
+}
+
+#menu_lateral_clinica a:hover {
+	text-decoration: underline;
+}
+
+#menu_lateral_clinica li {
+	list-style: none;
+	text-decoration: none;
+}
+
+.paragrafo p{
+	color: #4B0082;
+	font-family: tahoma;
+	font-size: 18px;
+	padding-left: 1px;
+}
+
+#rodape{
+    width: 100%;
+    height: 60px;
+    background-color: #5F9EA0;
+    float: left;
+    text-align: center;
+    color: #E0FFFF;
+}
+
+.img_clinica{
+	width: 760px;
+	height: 360px;
+	padding-left: 150px;
+}
+.clinica{
+    width: 100%;
+    height: 200px;
+    float: left;
+}
+
+.img_especialidade{
+	width: 260px;
+	height: 160px;
+	padding-left: 370px;
+}
+
+.produto_descricao{
+    width: 80%;
+    height: 200px;
+    float: left;
+}
+
+h3 {
+	color: #008080;
+}
+
+h4 {
+	color: #808080;
+}
+
+.contato {
+	padding-top: 60px;
+	padding-left: 280px;
+}
+
+.msg {
+	text-align: center;
+}
